@@ -12,3 +12,9 @@ For the coral component, the dataset features a selection of images highlighting
 
 Conclusion
 Together, these images provide a comprehensive visual narrative that highlights the fragility of aquatic ecosystems. They illustrate not only the beauty of these natural resources but also the critical challenges they face, underscoring the importance of environmental awareness and action.
+
+Table of sea creatures:
+https://huggingface.co/datasets/expanso/sea_creatures/embed/viewer/default/train"
+
+Table of Vincent Van Gogh:
+https://huggingface.co/datasets/kevinwang676/Vincent-van-Gogh
