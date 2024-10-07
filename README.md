@@ -18,3 +18,6 @@ https://huggingface.co/datasets/expanso/sea_creatures/embed/viewer/default/train
 
 Table of Vincent Van Gogh:
 https://huggingface.co/datasets/kevinwang676/Vincent-van-Gogh
+
+Table of the photos with file name and human caption: 
+https://docs.google.com/spreadsheets/d/1A3xmxz7E0yq1TBFw6uI2aQAtdDVu7Uf8oIeV6RjsN4U/edit?usp=sharing
