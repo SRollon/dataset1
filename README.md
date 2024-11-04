@@ -1,23 +1,22 @@
-# Dataset for my Assignment 2: Deterioration of the Sea
+# Assignment 3: Deterioration of the Sea in a TV
 
-Dataset Overview for Assignment 2
+Dataset Overview for Assignment 3
 
-This dataset encompasses three key components: Azolla, corals, and sea creatures, each representing critical aspects of aquatic ecosystems and their health.
+Throughout the weeks with what I have learned. I have figured that through having the AI generate my work from texts to photos that I have found my original idea to another approach to showcase the deterioration of the sea.
 
-### Azolla
-The dataset includes two images of Azolla, a floating water plant known for its rapid growth and ecological significance. **One image depicts healthy Azolla**, showcasing its lush green leaves and vibrant life, symbolizing the vitality of healthy aquatic environments. **The second image portrays dying Azolla**, which starkly contrasts the first. This visual representation symbolizes the **deterioration of the water plant's life**, serving as a poignant reminder of the impacts of environmental stressors, such as pollution and climate change, on plant health.
+### Process ==
+This dataset on the GitHub has the dataset that I used for generating the photos shown on the TV. This was also inspired by the one artist on class with their portrayal on the lifetime of flowers by putting flowers with TVs showcasing the life of each. In my context, I want to showcase the seas with symbolism on a TV at the shore of the ocean. I created this with the Google collab notebooks we learned on class to generatee the texts and photos to showcase my progress throughout the class as well with my usage on creating a work with AI. 
 
-### Corals
-For the coral component, the dataset features a selection of images highlighting **both vibrantly colored corals**, representing the thriving ecosystems that support marine biodiversity, **and black-and-white pictures of corals**. The latter captures the coral bleaching process, where the loss of color indicates stress and declining health due to rising sea temperatures, ocean acidification, and other human-induced factors. This dual representation emphasizes the stark contrast between a healthy coral reef and one that is suffering, showcasing the urgent need for conservation efforts.
-
-Conclusion
-Together, these images provide a comprehensive visual narrative that highlights the fragility of aquatic ecosystems. They illustrate not only the beauty of these natural resources but also the critical challenges they face, underscoring the importance of environmental awareness and action.
+Intentions
+I wanted to still stay true with my intentions to showcase the life of corals and the seas from life to death. I wanted to provoke also that the Sea can showcase different symbolisms that could be seen by also integrating concept of Life, Death, Hell, Bleach, and Corals in the Sea. I found out that by intergrating the concepts that each has showcased me:
++Sea and Life: The seas have so much in store for everyone, whether it may be jewelry or food.
++Sea and Death: Just as how time doesn't stop for us, the sea will also have its inevitable end.
++Sea and Hell: A merchandiser can experience hell in the transpotation of its goods as the sea can also be a medium for transportation between lands but also a consumer if the merchandiser is careless.
++Sea and Bleach: Imagine the Mondego, a large river in Portugal which is beautiful and amazing, but with the death of the sea that it looks like the icy white place Serra da Estrella in a sense if we do not take care of the sea enough.
++Sea and Corals in the Sea: Just as we can see and admire them just for a glimpse, it can be a home to other creatures as well.
 
 Table of sea creatures:
 https://huggingface.co/datasets/expanso/sea_creatures/embed/viewer/default/train"
-
-Table of Vincent Van Gogh:
-https://huggingface.co/datasets/kevinwang676/Vincent-van-Gogh
 
 Table of the photos with file name and human caption: 
 https://docs.google.com/spreadsheets/d/1A3xmxz7E0yq1TBFw6uI2aQAtdDVu7Uf8oIeV6RjsN4U/edit?usp=sharing
